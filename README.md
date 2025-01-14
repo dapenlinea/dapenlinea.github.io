@@ -1,6 +1,4 @@
-### link-in-bio/link-tree/all-my-links
-
-  <img src="https://raw.githubusercontent.com/bremer404/link-in-bio/main/.github/preview.jpg" width="100%">
+### DAP | Universidad de los Andes | Mérida, Venezuela
 
 This project was built using the following technologies:
 
@@ -11,4 +9,5 @@ This project was built using the following technologies:
 
 ---
 
-art by: blxckovt2k
+Deployed by: Luis Espinoza | Unidad de Sistemas
+Developed by: Luis Espinoza | Unidad de Sistemas
